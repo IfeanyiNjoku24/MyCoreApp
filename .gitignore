@@ -1,0 +1,7 @@
+# Ignore obj directory 
+obj/
+**/obj/
+
+#Ignore properties directory 
+Properties/
+**/Properties/
